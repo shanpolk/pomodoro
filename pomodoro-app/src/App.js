@@ -1,9 +1,9 @@
-import Pomodoro from './Pomodoro';
+import Pomodoro from "./Pomodoro.tsx";
 
 function App() {
   return (
     <div>
-      <Pomodoro name="Shannon"/>
+      <Pomodoro />
     </div>
   );
 }
